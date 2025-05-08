@@ -1,0 +1,11 @@
+{
+  "id": "readonly-note",
+  "name": "Read-only Note",
+  "version": "0.1.0",
+  "minAppVersion": "0.15.0",
+  "description": "Toggle a note's read-only status in Obsidian by changing file permissions.",
+  "author": "Hernán Collazo",
+  "authorUrl": "https://github.com/hernancollazo",
+  "main": "main.js",
+  "css": "styles.css"
+}
