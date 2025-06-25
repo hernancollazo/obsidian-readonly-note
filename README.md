@@ -4,10 +4,10 @@ This Obsidian plugin allows you to toggle any note to **read-only mode** by chan
 
 ## Disclaimer & License
 
-This project is currently a **proof of concept** and is NOT under active development.
+This project was a **PoC** (proof of concept) and is NOT under active development.
 It's not considered stable, and we do **not recommend** using it on documents containing important or irreplaceable information.
 Unexpected behavior may result in data loss or corruption. Any use of this code is entirely **at your own risk**.
-If you’re looking for a stable and reliable alternative, check out [https://github.com/Felvesthe/note-locker](https://github.com/Felvesthe/note-locker) — it’s actually really good!
+If you’re looking for a stable and reliable alternative, check out [https://github.com/Felvesthe/note-locker](https://github.com/Felvesthe/note-locker). It’s actually really good/stable!
 
 ## Features
 
